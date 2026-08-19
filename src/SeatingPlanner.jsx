@@ -117,7 +117,7 @@ const SEED = {
     g("David Stuart", "Strip"),
   ],
   t2: [
-    g("Zac Yacoub", "Chicken"),
+    g("Zachary Vogel", "Chicken"),
     g("Terry Ishizaki", "Chicken"),
     g("Dana Glover", "Strip"),
     g("Simon Stuart", "Strip"),

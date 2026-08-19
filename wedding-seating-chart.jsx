@@ -115,7 +115,7 @@ const SEED = {
     g("Naomi Upright", "Kids Meal", "", "Chicken Fingers, French Fries, Plum Sauce"),
     g("Bronwyn Upright", "Strip"),
     g("Naya Yacoub", "Strip", "Gluten free"),
-    g("Zac Yacoub", "Chicken"),
+    g("Zachary Vogel", "Chicken"),
   ],
   t3: [
     g("Emma Nemtin", "Strip"),
